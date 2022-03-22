@@ -1,0 +1,10 @@
+#mainSort{
+    display: flex;
+    align-items: center;
+
+}
+
+.letter{
+    font-size: small;
+    margin-right: 5px;
+}

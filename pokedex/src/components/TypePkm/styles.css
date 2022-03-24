@@ -1,0 +1,248 @@
+#mainTypePkm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: black;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-normal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #AAA67F;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-fighting{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #C12239;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-flying{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #A891EC;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-ground{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #DEC16B;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-poison{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #A43E9E;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-rock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #B69E31;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-bug{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #A7B723;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-ghost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #70559B;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-steel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #B7B9D0;
+
+    border-radius: 0.625rem;
+}
+
+#mainTypePkm-fire{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #F57D31;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-water{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #6493EB;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-grass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #74CB48;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-electric{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #F9CF30;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-psychic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #FB5584;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-ice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #9AD6DF;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-dragon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #7037FF;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-dark{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #75574C;
+
+    border-radius: 0.625rem;
+}
+#mainTypePkm-fairy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 1.25rem;
+    width: fit-content;
+
+    background-color: #E69EAC;
+
+    border-radius: 0.625rem;
+}
+
+
+#lettersType{
+
+    color: white;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}

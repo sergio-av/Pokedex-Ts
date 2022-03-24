@@ -1,0 +1,44 @@
+#mainCardPkm {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 6.5rem;
+    height: 7rem;
+
+
+    border: 0.0625rem solid;
+    border-radius: 0.5rem;
+    border-color: #B8B8B8;
+
+    background-color: #B8B8B8;
+}
+
+#image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 6.45rem;
+    height: auto;
+
+    background-color: white;
+}
+
+#image span {
+    align-self: end;
+    margin-right: 0.3125rem;
+    margin-top: 0.3125rem;
+    margin-bottom: 0.3125rem;
+
+    font-size: 0.5rem;
+
+    color: #B8B8B8;
+}
+
+#namePkm {
+    font-size: 0.625rem;
+
+    margin-top: 0.3125rem;
+    color: white;
+}

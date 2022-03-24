@@ -1,10 +1,14 @@
-import React from 'react'
+import React from 'react';
+
+import iconSearch from '../../asset/iconSearch.png';
+
+import './styles.css';
 
 export function Search() {
     return (
         <div id='mainSearch'>
             <div>
-                <img src="https://i.ibb.co/T2q2r1c/icon-Search.png" alt="iconSearch" />
+                <img src={iconSearch} alt="iconSearch" id='iconSearch' />
                 <span>Buscar Pokemon</span>
             </div>
         </div>

@@ -1,0 +1,32 @@
+#mainSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+    width: 20.5rem;
+    height: 1.5rem;
+
+    border: 1px solid;
+    border-radius: 0.5rem;
+    border-color: lightgrey;
+    
+}
+#mainSearch div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+#iconSearch{
+    margin-right: 0.625rem;
+    
+    width: 0.5rem;
+    height: 1rem;
+}
+
+#mainSearch span{
+    font-size: 0.625rem;
+
+    color: grey;
+}
